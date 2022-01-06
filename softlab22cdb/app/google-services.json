@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216680833555",
+    "project_id": "softlab22-cdb",
+    "storage_bucket": "softlab22-cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216680833555:android:bcd96ae07f24488faa55e6",
+        "android_client_info": {
+          "package_name": "com.example.softlab22_cdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216680833555-46se96b9gb6cn8r7a4jms9hmi2dta7v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGgpV5iL3-HBs84H4W0nRXu5d8dbNNqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216680833555-46se96b9gb6cn8r7a4jms9hmi2dta7v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
